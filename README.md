@@ -1,7 +1,7 @@
 # 🔋 Smart Microgrid Energy Monitoring System
 
 ## 🌍 Project Overview
-The **(project name)** is an **IoT and cloud-enabled platform** that helps communities track, manage, and optimize their renewable energy usage.  
+The **Vidyut** is an **IoT and cloud-enabled platform** that helps communities track, manage, and optimize their renewable energy usage.  
 It provides real-time visibility into **generation, storage, and consumption**, while also sending **alerts and recommendations** to grid operators for better decision-making.  
 
 Designed to be **affordable, scalable, and community-friendly**, the system empowers both individual households and local operators to manage energy resources more efficiently.
